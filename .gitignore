@@ -1,0 +1,11 @@
+# Python
+__pycache__
+
+# Pyenv version selector
+.python-version
+
+# Virtual environment
+venv
+
+# Direnv
+.envrc
